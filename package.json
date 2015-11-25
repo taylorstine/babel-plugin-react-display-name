@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": "lib/index.js",
   "devDependencies": {
-    "babel": "^6.1.18"
+    "babel": "^6.1.18",
+    "babel-preset-es2015": "^6.1.18"
   },
   "scripts": {
     "build": "babel-plugin build",
